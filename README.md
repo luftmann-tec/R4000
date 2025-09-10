@@ -5,7 +5,7 @@
 <!-- Agrega el icono de "Abrir en MATLAB Online" al README para abrir un archivo específico en MATLAB Online -->
 
 ## Autor
-Rodolfo Salazar Peña
+Salazar Rodolfo
 
 Profesor Catedrático
 
