@@ -1,8 +1,7 @@
 # Simulación de la saponificación en reactores químicos utilizando equipo experimental didáctico
 
+[![View Simulation of saponification in chemical reactors on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/182001-simulation-of-saponification-in-chemical-reactors)
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=luftmann-tec/R4000&file=PignatRAP4000)
-<!-- Agrega el icono de "File Exchange" al README si este repositorio también aparece en File Exchange mediante la función "Connect to GitHub" -->
-<!-- Agrega el icono de "Abrir en MATLAB Online" al README para abrir un archivo específico en MATLAB Online -->
 [![DOI](https://zenodo.org/badge/1052376075.svg)](https://doi.org/10.5281/zenodo.17095826)
 
 ## Autor
