@@ -45,11 +45,11 @@ El grado en que los estudiantes alcanzan los objetivos se determina mediante la 
 ## Recursos adicionales
 ### Libros de texto
 
-Levenspiel, O. Ingeniería de las reacciones químicas (clásico para reactores y cinética).
+Levenspiel, O. (1972) _Ingeniería de las reacciones químicas_ (2da. Ed). México, D.F.:Reverté (clásico para reactores y cinética).
 
-Fogler, H. S. Elementos de ingeniería de las reacciones químicas (enfoque práctico y con problemas de simulación).
+Fogler, H. S. (1992) _Elements of Chemical Reaction Engineering_, (2nd. Ed). Upper Sandler River NJ:Prentice Hall (enfoque práctico y con problemas de simulación).
 
-Levine, I. Fisicoquímica (para fundamentos de cinética química).
+Levine, I. (1988) _Fisicoquímica_ (3ra. Ed). México, D.F.:McGraw-Hill (para fundamentos de cinética química).
 
 ### Artículos científicos
 
